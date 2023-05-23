@@ -1,0 +1,5 @@
+Python Brasil Exercícios: https://wiki.python.org.br/ExerciciosClasses
+
+Soluções python Brasil: https://github.com/selatotal/pythonBrasilExercicios
+
+Mais exercícios: https://pense-python.caravela.club/15-classes-e-objetos/09-exercicios.html
